@@ -1,0 +1,16 @@
+body{
+    background-color: beige;
+}
+h1{
+    color: brown;
+    size: 30px;
+}
+h2{
+    text-shadow: 12px;
+}
+h3{
+    font: bold;
+}
+h4{
+    color: olive;
+}
